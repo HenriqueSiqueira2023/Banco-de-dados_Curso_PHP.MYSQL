@@ -1,2 +1,2 @@
 # Banco de dados_Curso_PHP.SQL
-Projeto desenvolvido no curso PHP e MYSQL.
+Projeto desenvolvido no curso PHP e MYSQL, na escola Eibneti.
